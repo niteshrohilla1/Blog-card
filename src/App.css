@@ -56,6 +56,10 @@
   letter-spacing: 0px;
 }
 
+.Title:hover {
+  color: hsl(47, 88%, 63%)
+}
+
 .Description {
   color: hsl(0, 0%, 42%);
   font-size: 16px;
